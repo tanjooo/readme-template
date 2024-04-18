@@ -74,7 +74,7 @@ http://www.studywithanis.com
 
 ### image systax
 <!--![profile](./images/me.jpg)-->
-<img src="./images/me.jpg" Width="200" title="profile image"/>
+<img src="./images/me.jpg" Width="400" title="profile image"/>
 <br/> 
 
 ### Table syntax
