@@ -67,14 +67,15 @@ This is second line
 ### automatic link
 http://www.studywithanis.com
 ### Disable link
-http://www.studywithanis.com
+`http://www.studywithanis.com`
 ### markdown link syntax
 [studywithanis](http://www.studywithanis.com)
 <br/> 
 
 ### image systax
-<!--![profile](./images/me.jpg)-->
-<img src="./images/me.jpg" Width="400" title="profile image"/>
+<!--![profile](./images/me.jpg)--> 
+
+<img src="./images/tan.jpg" Width="400" title="profile image"/>
 <br/> 
 
 ### Table syntax
